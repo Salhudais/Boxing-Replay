@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Replays the last 5 seconds in slow motion on Backspace key press
-// @author       Your Name
+// @author       Salah Alhudais
 // @match        *://www.youtube.com/*
 // @grant        none
 // ==/UserScript==
